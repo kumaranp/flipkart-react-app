@@ -31,7 +31,7 @@ export default function Header() {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" className={classes.title}>
-            Simple Banking App
+            Flipkart React App
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
